@@ -1,0 +1,37 @@
+.row.top{
+  height:40px;
+}
+
+h1.hero{
+  font-size:45px;
+  display:inline-block;
+}
+
+.subheading{
+  margin-left: 20px;
+  display:inline-block;
+}
+
+.avatar{
+  margin: -20px 20px 0 0;
+  width:70px;
+  height:70px;
+}
+
+.flair{
+  width:40px;
+  height:40px;
+  margin-right: 10px;
+}
+
+.page-header, .job-title{
+  margin-top:60px;
+}
+
+footer {
+  color:#CACACA;
+  text-align: center;
+  margin-top: 45px;
+  padding: 35px 0 36px;
+  border-top: 1px solid #E5E5E5;
+}
