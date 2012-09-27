@@ -45,7 +45,7 @@ footer {
 }
 @media print {
   .print-only{
-    display:inline-block;
+    display:block;
   }
   .no-print{
     display:none;
