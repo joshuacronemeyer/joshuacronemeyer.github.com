@@ -35,3 +35,22 @@ footer {
   padding: 35px 0 36px;
   border-top: 1px solid #E5E5E5;
 }
+
+.print-only{
+  display:none;
+}
+
+.no-print{
+  display:inline-block;
+}
+@media print {
+  .print-only{
+    display:inline-block;
+  }
+  .no-print{
+    display:none;
+  }
+  .print-contact{
+    margin-left:75px;
+  }
+}
