@@ -2,6 +2,10 @@
   h1.hero{
     font-size:35px;
   }
+  .dl-horizontal dt{
+    float:left;
+    padding-right:10px;
+  }
 }
 
 @media (max-width: 320px) {
