@@ -6,6 +6,9 @@
     float:left;
     padding-right:10px;
   }
+  .topic{
+    padding-top:15px;
+  }
 }
 
 @media (max-width: 320px) {
